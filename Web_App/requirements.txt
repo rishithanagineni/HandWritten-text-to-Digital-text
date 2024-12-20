@@ -1,0 +1,11 @@
+
+flask
+keras-ocr
+transformers
+evaluate
+
+Pillow
+pandas
+matplotlib
+numpy
+werkzeug
